@@ -2,7 +2,9 @@
 title: "PA 446 Midterm Part I"
 author: "Leah Berti"
 date: "2025-10-16"
-output: html_document
+output: 
+  html_document:
+    theme: cerulean
 editor_options: 
   chunk_output_type: console
 ---
